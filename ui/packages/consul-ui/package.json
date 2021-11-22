@@ -153,7 +153,7 @@
     "jsonlint": "^1.6.3",
     "lint-staged": "^10.2.11",
     "loader.js": "^4.7.0",
-    "mnemonist": "^0.38.0",
+    "mnemonist": "^0.39.0",
     "ngraph.graph": "^19.1.0",
     "parse-duration": "^1.0.0",
     "pretender": "^3.2.0",
